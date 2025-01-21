@@ -69,33 +69,10 @@ A prototype Automated Booking Bot built with Flask (backend) and React (frontend
 ## Usage
 
 1. Start the Flask backend:  
-   - Open a terminal and run the backend (`app.py`).
+   - Open a terminal and run the backend (`main.py`).
 
 2. Start the React frontend:  
    - Open a separate terminal and run the frontend (`npm run dev`).
 
 3. Open the React app in your browser:  
    - Navigate to `http://localhost:3000`.
-
----
-
-## Folder Structure
-
-```
-repository-folder/
-├── backend/
-│   ├── app.py           # Flask application
-│   └── requirements.txt # Optional: Dependencies for backend
-├── frontend/
-│   ├── src/             # React source files
-│   ├── public/          # Public assets
-│   └── package.json     # React dependencies
-├── README.md
-```
-
----
-
-## Requirements
-
-- **Python 3.7+**  
-- **Node.js 14+**
