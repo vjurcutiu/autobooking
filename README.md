@@ -28,7 +28,7 @@ A prototype Automated Booking Bot built with Flask (backend) and React (frontend
 3. **Set Up a Virtual Environment** (optional but recommended):  
    ```bash
    python -m venv venv
-   source venv/bin/activate   # On Windows: venvScriptsactivate
+   source venv/bin/activate   # On Windows: venv/Scripts/activate
    ```
 
 4. **Install Dependencies**:  
@@ -38,7 +38,7 @@ A prototype Automated Booking Bot built with Flask (backend) and React (frontend
 
 5. **Run the Flask App**:  
    ```bash
-   python app.py
+   python main.py
    ```
 
    The Flask backend will start on `http://127.0.0.1:5000`.
@@ -62,17 +62,5 @@ A prototype Automated Booking Bot built with Flask (backend) and React (frontend
    npm run dev
    ```
 
-   The React frontend will start on `http://localhost:3000`.
+   The React frontend will usually start on `http://localhost:3000`.
 
----
-
-## Usage
-
-1. Start the Flask backend:  
-   - Open a terminal and run the backend (`main.py`).
-
-2. Start the React frontend:  
-   - Open a separate terminal and run the frontend (`npm run dev`).
-
-3. Open the React app in your browser:  
-   - Navigate to `http://localhost:3000`.
