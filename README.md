@@ -59,7 +59,7 @@ A prototype Automated Booking Bot built with Flask (backend) and React (frontend
 
 3. **Start the React App**:  
    ```bash
-   npm start
+   npm run dev
    ```
 
    The React frontend will start on `http://localhost:3000`.
@@ -72,7 +72,7 @@ A prototype Automated Booking Bot built with Flask (backend) and React (frontend
    - Open a terminal and run the backend (`app.py`).
 
 2. Start the React frontend:  
-   - Open a separate terminal and run the frontend (`npm start`).
+   - Open a separate terminal and run the frontend (`npm run dev`).
 
 3. Open the React app in your browser:  
    - Navigate to `http://localhost:3000`.
@@ -99,9 +99,3 @@ repository-folder/
 
 - **Python 3.7+**  
 - **Node.js 14+**
-
----
-
-## License
-
-This project is licensed under the MIT License.
