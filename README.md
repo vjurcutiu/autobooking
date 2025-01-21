@@ -16,7 +16,7 @@ A prototype Automated Booking Bot built with Flask (backend) and React (frontend
 
 1. **Clone the Repository**:  
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/vjurcutiu/autobooking
    cd <repository-folder>
    ```
 
